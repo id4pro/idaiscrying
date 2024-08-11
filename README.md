@@ -1,23 +1,23 @@
-# idaiscrying
+# idaiscrying / star for more updates
 <a name="emphasis" />
 
-## Emphasis
-Modifying text is so neat and easy. You can make your text bold, italic and strikethrough.
+## What is this?
+This is an advanced open-source remote administration tool meant for researching and nothing more.
 
 ```
-Using two asterisks **this text is bold**.  
-Two underscores __work as well__.  
-Let's make it *italic now*.  
-You guessed it, _one underscore is also enough_.  
-Can we combine **_both of that_?** Absolutely.
-What if I want to ~~strikethrough~~?
+Features:
+- Execute Files
+- Take Screenshots
+- Execute Commands
+- Record Keys
+- View Tasks
+- Silent Self-Destruct
+- Execute MessageBoxes
+- Bluescreen
+- Disable / Enable Stub Startup
+- Change Desktop Image
+- View: IP Address, HWID, Geo Location, OS, AntiVirus, Uptime
+- AntiVm
+- Great Protection
 ```
 
-Using two asterisks **this text is bold**.  
-Two underscores __work as well__.  
-Let's make it *italic now*.  
-You guessed it, _one underscore is also enough_.  
-Can we combine **_both of that_?** Absolutely.  
-What if I want to ~~strikethrough~~?
-
----
